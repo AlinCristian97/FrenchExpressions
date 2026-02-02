@@ -12,5 +12,7 @@ public class Constants
     // E
     public const string EnAttendant = "en attendant";
 
+    // J
+    public const string JeVousEnPrie = "je vous en prie";
 
 }
