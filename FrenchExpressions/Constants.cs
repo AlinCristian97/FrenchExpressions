@@ -15,4 +15,6 @@ public class Constants
     // J
     public const string JeVousEnPrie = "je vous en prie";
 
+    // T
+    public const string TelQuel = "tel quel";
 }
