@@ -22,6 +22,15 @@ public class Constants
     // J
     public const string JeVousEnPrie = "je vous en prie";
 
+    // L
+    public const string LevantLesYeuxAuCiel = "levant les yeux au ciel";
+
+    // M
+    public const string MessesBasses = "messes basses";
+
     // T
     public const string TelQuel = "tel quel";
+
+    // U
+    public const string UnMoinsQueRien = "un moins que rien";
 }
