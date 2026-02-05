@@ -13,6 +13,9 @@ public class Constants
 
     // C
 
+    // D
+    public const string DansLeVifDuSujet = "dans le vif du sujet";
+
     // E
     public const string EnAttendant = "en attendant";
 
