@@ -5,6 +5,9 @@ public class Constants
     // A
     public const string AToutLeMoins = "à tout le moins";
     public const string AvoirLesEpaulesLarges = "avoir les épaules larges";
+    public const string AvoirUnPoilDansLaMain = "avoir un poil dans la main";
+    public const string AuJuste = "au juste";
+    public const string ALaRenverse = "à la renverse";
 
     // B
 
