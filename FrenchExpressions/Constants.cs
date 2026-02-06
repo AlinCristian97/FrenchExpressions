@@ -28,6 +28,11 @@ public class Constants
     // M
     public const string MessesBasses = "messes basses";
 
+    // N
+
+    // O
+    public const string OnDiraitQue = "on dirait que";
+
     // T
     public const string TelQuel = "tel quel";
 
