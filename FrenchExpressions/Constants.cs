@@ -15,6 +15,7 @@ public class Constants
 
     // D
     public const string DansLeVifDuSujet = "dans le vif du sujet";
+    public const string DeAbord = "d'abord";
 
     // E
     public const string EnAttendant = "en attendant";
@@ -36,6 +37,8 @@ public class Constants
 
     // T
     public const string TelQuel = "tel quel";
+    public const string TaperLaHonte = "taper la honte";
+    public const string TaperUnFouRire = "taper un fou rire";
 
     // U
     public const string UnMoinsQueRien = "un moins que rien";
