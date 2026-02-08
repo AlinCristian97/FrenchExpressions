@@ -31,6 +31,7 @@ public class Constants
     public const string MessesBasses = "messes basses";
 
     // N
+    public const string NonPlus = "non plus";
 
     // O
     public const string OnDiraitQue = "on dirait que";
