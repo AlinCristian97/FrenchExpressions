@@ -13,6 +13,7 @@ public class Constants
     // B
 
     // C
+    public const string CaVautLeCoup = "ça vaut le coup";
 
     // D
     public const string DansLeVifDuSujet = "dans le vif du sujet";
