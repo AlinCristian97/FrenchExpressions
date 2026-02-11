@@ -41,6 +41,7 @@ public class Constants
     public const string TelQuel = "tel quel";
     public const string TaperLaHonte = "taper la honte";
     public const string TaperUnFouRire = "taper un fou rire";
+    public const string TantPis = "tant pis";
 
     // U
     public const string UnMoinsQueRien = "un moins que rien";
