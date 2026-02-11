@@ -8,6 +8,7 @@ public class Constants
     public const string AvoirUnPoilDansLaMain = "avoir un poil dans la main";
     public const string AuJuste = "au juste";
     public const string ALaRenverse = "à la renverse";
+    public const string AuFurEtAMesure = "au fur et à mesure";
 
     // B
 
