@@ -47,4 +47,5 @@ public class Constants
     // U
     public const string UnMoinsQueRien = "un moins que rien";
     public const string UneFoisDePlus = "une fois de plus";
+    public const string ValoirLaPeine = "valoir la peine";
 }
