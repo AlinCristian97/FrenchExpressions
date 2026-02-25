@@ -10,6 +10,7 @@ public class Constants
     public const string ALaRenverse = "à la renverse";
     public const string AuFurEtAMesure = "au fur et à mesure";
     public const string AFond = "à fond";
+    public const string AvoirTort = "avoir tort";
 
     // B
 
@@ -19,6 +20,7 @@ public class Constants
     // D
     public const string DansLeVifDuSujet = "dans le vif du sujet";
     public const string DeAbord = "d'abord";
+    public const string DuTout = "du tout";
 
     // E
     public const string EnAttendant = "en attendant";
@@ -38,6 +40,9 @@ public class Constants
 
     // O
     public const string OnDiraitQue = "on dirait que";
+
+    // Q
+    public const string QuoiQueCeSoit = "quoi que ce soit";
 
     // T
     public const string TelQuel = "tel quel";
