@@ -9,6 +9,7 @@ public class Constants
     public const string AuJuste = "au juste";
     public const string ALaRenverse = "à la renverse";
     public const string AuFurEtAMesure = "au fur et à mesure";
+    public const string AFond = "à fond";
 
     // B
 
