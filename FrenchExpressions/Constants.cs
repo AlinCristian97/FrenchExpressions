@@ -26,6 +26,9 @@ public class Constants
     public const string EnAttendant = "en attendant";
     public const string EtreAuCourant = "être au courant";
 
+    // I
+    public const string IlSAgitDe = "il s’agit de";
+
     // J
     public const string JeVousEnPrie = "je vous en prie";
 
