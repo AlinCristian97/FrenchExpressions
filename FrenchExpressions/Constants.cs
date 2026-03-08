@@ -56,6 +56,7 @@ public class Constants
     public const string TaperLaHonte = "taper la honte";
     public const string TaperUnFouRire = "taper un fou rire";
     public const string TantPis = "tant pis";
+    public const string TiensTiens = "tiens, tiens";
 
     // U
     public const string UnMoinsQueRien = "un moins que rien";
