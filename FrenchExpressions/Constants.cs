@@ -16,6 +16,7 @@ public class Constants
 
     // C
     public const string CaVautLeCoup = "ça vaut le coup";
+    public const string CesTempsCi = "ces temps-ci";
 
     // D
     public const string DansLeVifDuSujet = "dans le vif du sujet";
@@ -46,6 +47,9 @@ public class Constants
 
     // Q
     public const string QuoiQueCeSoit = "quoi que ce soit";
+
+    // R
+    public const string RestonsEnLa = "restons-en là";
 
     // T
     public const string TelQuel = "tel quel";
