@@ -11,6 +11,7 @@ public class Constants
     public const string AuFurEtAMesure = "au fur et à mesure";
     public const string AFond = "à fond";
     public const string AvoirTort = "avoir tort";
+    public const string ALheure = "à l'heure";
 
     // B
 
@@ -26,6 +27,8 @@ public class Constants
     // E
     public const string EnAttendant = "en attendant";
     public const string EtreAuCourant = "être au courant";
+    public const string EnAvance = "en avance";
+    public const string EnRetard = "en retard";
 
     // I
     public const string IlSAgitDe = "il s’agit de";
