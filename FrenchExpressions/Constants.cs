@@ -40,6 +40,7 @@ public class Constants
     public const string IlFaitFroid = "il fait froid";
     public const string IlFaitFrais = "il fait frais";
     public const string IlFaitHumide = "il fait humide";
+    public const string IlFaitDoux = "il fait doux";
     public const string IlPleut = "il pleut";
     public const string IlNeige = "il neige";
     public const string IlYADuVent = "il y a du vent";
