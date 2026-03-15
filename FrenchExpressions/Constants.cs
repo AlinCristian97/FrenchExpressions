@@ -12,6 +12,7 @@ public class Constants
     public const string AFond = "à fond";
     public const string AvoirTort = "avoir tort";
     public const string ALheure = "à l'heure";
+    public const string AvoirUnePeurBleue = "avoir une peur bleue";
 
     // B
 
@@ -54,6 +55,7 @@ public class Constants
 
     // R
     public const string RestonsEnLa = "restons-en là";
+    public const string RireJaune = "rire jaune";
 
     // T
     public const string TelQuel = "tel quel";
