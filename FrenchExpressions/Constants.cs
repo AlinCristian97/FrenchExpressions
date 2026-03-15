@@ -13,12 +13,16 @@ public class Constants
     public const string AvoirTort = "avoir tort";
     public const string ALheure = "à l'heure";
     public const string AvoirUnePeurBleue = "avoir une peur bleue";
+    public const string AvoirLaPeche = "avoir la pêche";
+    public const string AvoirLeCafard = "avoir le cafard";
+    public const string AvoirUnChatDansLaGorge = "avoir un chat dans la gorge";
 
     // B
 
     // C
     public const string CaVautLeCoup = "ça vaut le coup";
     public const string CesTempsCi = "ces temps-ci";
+    public const string CasserLesPieds = "casser les pieds";
 
     // D
     public const string DansLeVifDuSujet = "dans le vif du sujet";
@@ -31,6 +35,10 @@ public class Constants
     public const string EtreVertDeRage = "être vert de rage";
     public const string EnAvance = "en avance";
     public const string EnRetard = "en retard";
+    public const string EtreDansLaLune = "être dans la lune";
+
+    // F
+    public const string FaireLaTete = "faire la tête";
 
     // I
     public const string IlSAgitDe = "il s’agit de";
@@ -58,12 +66,18 @@ public class Constants
 
     // M
     public const string MessesBasses = "messes basses";
+    public const string MettreLesPiedsDansLePlat = "mettre les pieds dans le plat";
 
     // N
     public const string NonPlus = "non plus";
 
     // O
     public const string OnDiraitQue = "on dirait que";
+
+    // P
+    public const string PasDeSoucis = "pas de soucis";
+    public const string PasDeProbleme = "pas de problème";
+    public const string PrendreLaTete = "prendre la tête";
 
     // Q
     public const string QuoiQueCeSoit = "quoi que ce soit";
@@ -78,6 +92,7 @@ public class Constants
     public const string TaperUnFouRire = "taper un fou rire";
     public const string TantPis = "tant pis";
     public const string TiensTiens = "tiens, tiens";
+    public const string TomberDansLesPommes = "tomber dans les pommes";
 
     // U
     public const string UnMoinsQueRien = "un moins que rien";
