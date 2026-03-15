@@ -27,6 +27,7 @@ public class Constants
     // E
     public const string EnAttendant = "en attendant";
     public const string EtreAuCourant = "être au courant";
+    public const string EtreVertDeRage = "être vert de rage";
     public const string EnAvance = "en avance";
     public const string EnRetard = "en retard";
 
