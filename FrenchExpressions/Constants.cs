@@ -41,9 +41,9 @@ public class Constants
     public const string IlFaitFrais = "il fait frais";
     public const string IlFaitHumide = "il fait humide";
     public const string IlFaitDoux = "il fait doux";
+    public const string IlFaitDuVent = "il fait du vent";
     public const string IlPleut = "il pleut";
     public const string IlNeige = "il neige";
-    public const string IlYADuVent = "il y a du vent";
     public const string IlYADuSoleil = "il y a du soleil";
     public const string IlYADesNuages = "il y a des nuages";
     public const string IlYADuBrouillard = "il y a du brouillard";
