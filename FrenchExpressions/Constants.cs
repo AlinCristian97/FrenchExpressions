@@ -34,6 +34,20 @@ public class Constants
 
     // I
     public const string IlSAgitDe = "il s’agit de";
+    public const string IlFaitBeau = "il fait beau";
+    public const string IlFaitMauvais = "il fait mauvais";
+    public const string IlFaitChaud = "il fait chaud";
+    public const string IlFaitFroid = "il fait froid";
+    public const string IlFaitFrais = "il fait frais";
+    public const string IlFaitHumide = "il fait humide";
+    public const string IlPleut = "il pleut";
+    public const string IlNeige = "il neige";
+    public const string IlYADuVent = "il y a du vent";
+    public const string IlYADuSoleil = "il y a du soleil";
+    public const string IlYADesNuages = "il y a des nuages";
+    public const string IlYADuBrouillard = "il y a du brouillard";
+    public const string IlYAUnOrage = "il y a un orage";
+    public const string IlYAUneTempete = "il y a une tempête";
 
     // J
     public const string JeVousEnPrie = "je vous en prie";
