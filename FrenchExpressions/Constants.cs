@@ -93,6 +93,7 @@ public class Constants
     public const string TantPis = "tant pis";
     public const string TiensTiens = "tiens, tiens";
     public const string TomberDansLesPommes = "tomber dans les pommes";
+    public const string ToutACoup = "tout à coup";
 
     // U
     public const string UnMoinsQueRien = "un moins que rien";
